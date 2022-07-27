@@ -1,0 +1,51 @@
+## Tell me about yourself
+Experienced Software Engineer with an MS Computer Science degree from New York University, I am currently working as a Software Developer 2 at Oracle Cloud Infrastructure and have over 3.5 years of industrial experience in developing scalable systems and software at AWS DynamoDB, Barclays, IBM, and Nokia Networks.
+
+Right now, I'm looking for an opportunity as a software engineer to apply my technical expertise, along with my problem-solving skills to find innovative solutions to complex problems. I thrive in a challenging environment and look forward to working with new people.
+
+## Why Amazon
+
+## Gift Card Teams
+
+The Amazon Gift Card & Stored Value business is a rapidly growing, multi-billion dollar business that serves customers around the world. 
+Our vision is for our products to be the most convenient and desired gifts, for everyone, for all occasions. 
+We also build innovative payment solutions, making it easier for cash-preferring customers to shop on Amazon. 
+Our team is responsible for creating digital and physical Gift Cards, Stored Value products like Amazon Cash, and Incentive solutions for Business customers. 
+We operate these businesses worldwide and sell through a variety of channels including the Amazon website, direct corporate sales, and retail stores. The Amazon Gift Card & Stored Value team is a diverse organization with roles spanning product management, vendor and inventory management, engineering, data science, business development, operations, and marketing.
+
+
+## Past Experience
+### Oracle Inc, Software Developer 2, Oracle Cloud Infrastructure Logging Data Plane Team Dec 2020 - Present 
+• Develop various modules for the Logging Service that provides access to logs from Oracle Cloud Infrastructure resources that include critical diagnostic information that describes how resources are performing and being accessed.
+• Own the streaming agent component of the Logging Service that ships logs from the customer instances to the logging ingestion service.
+• Manage a team of 3 Engineers; conduct weekly syncs, daily scrums, and technical interviews.
+• Created Technical Design Documents (TDDs) for numerous projects demonstrating architecture, test, and execution plans.
+• Implemented a custom Jackson deserializer and designed various modules that reduced the latency of Audit logs by 6.27%.
+• Made various microservices services, running in substrate and overlay, Realm and Region agnostic for new realms and regions.
+• Developed scripts to generate and reassign Kafka partitions for adding and replacing Kafka brokers.
+• Implemented changes in various logging agents/ services to run on Virtual Machines with different architectures (AMD x86-64, arm aarch64). • Built various Grafana dashboards, using emitted metrics, to track and analyze the health and performance of various microservices and implemented a library to automate dashboard change deployment to all regions/ realms.
+• Mentor and help onboard engineers across multiple levels – prepared onboarding documents, gave brown bag sessions on the architecture of the logging ingestion service and various microservices.
+
+### Barclays, Software Developer, Wholesale Lending Infrastructure Team July 2020 - Dec 2020 
+• Customized LoanIQ, a commercial system for servicing commercial loans, to address specific needs of Barclays Investment Bank.
+• Developed and integrated an SSO module with LoanIQ to bypass the usual login screen and carry on with the custom code.
+• Migrated on-premises MySQL database to Amazon EC2 using AWS DMS, native MySQL tools (mysqldbcopy, mysqldump).
+
+
+### Amazon.com, Inc, Software Development Engineer Intern, Amazon Web Services DynamoDB June 2019 - Aug 2019 
+• Developed dynamic policies for DynamoDB in Java to scale splitting of partitions and allocate sufficient partitions to user tables in DynamoDB. • Developed a Unix tool to render these policies with a 3-level fallback mechanism to handle provisioned throughput requirements in DynamoDB. • Ensured maintenance of SDLC with a planned design, development and testing, creation of production level tables, and global prod deployment.
+
+### Nokia Networks, Software Engineer GET, NOKIA Software NetAct July 2017 - July 2018 
+• Developed and implemented Nokia’s Virtualized Network Management System - NetAct’s Fault and Performance Management pipeline using Java, Python, Shell Scripting while working in an agile development environment.
+• Created real-time dashboards, automated reports refreshing, using Rest API, Python scripts, Power BI, to analyze the pipelines in real-time.
+• Developed various web-based business applications for the Services Business Unit using SharePoint, C#.
+Nokia Networks, Software Engineer Intern Jan 2017 - June 2017 • Developed and implemented an algorithm to detect Black hole/ Gray hole attacks in a Mobile Ad-hoc Network (MANET).
+
+
+### IBM, Software Developer Intern, Worklight Team June 2015 - July 2015 
+• Developed various modules of a new Road User Charging (RUC) system, in Java, to be deployed for the Government of Norway.
+• Designed a self-service interface in the app, using JavaScript, Worklight plugin, to help automate toll collection and number plate recognition.
+
+### New York University, Teaching Assistant - Cloud Computing Sept 2019 - May 2020 
+• Gave lectures and demos to students on various course modules such as Kafka, ElasticSearch, and various AWS Services.
+• Reinforced lessons presented by the professor by reviewing material with students one-on-one or in small groups.
